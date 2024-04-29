@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Flammenfuchs</h1>
+<h1 align="center">Hi 👋, I'm Florian</h1>
 <h3 align="center">A Computer Science Student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=florianwip&label=Profile%20views&color=0e75b6&style=flat" alt="florianwip" /> </p>
