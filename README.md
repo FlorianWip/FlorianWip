@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **C#, go**
 
-- 👨‍💻 All of my projects are available at [https://florianwip.de/#projects](https://floriabnwip.de/#projects)
+- 👨‍💻 All of my projects are available at [https://florianwip.de/#projects](https://florianwip.de/#projects)
 
 - 💬 Ask me about **java, reflections, quarkus**
 
