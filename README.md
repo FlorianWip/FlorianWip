@@ -9,11 +9,11 @@
 
 - 🌱 I’m currently learning **C#, go**
 
-- 👨‍💻 All of my projects are available at [https://flammenfuchs.de/projects](https://flammenfuchs.de/projects)
+- 👨‍💻 All of my projects are available at [https://florianwip.de/#projects](https://floriabnwip.de/#projects)
 
 - 💬 Ask me about **java, reflections, quarkus**
 
-- 📫 How to reach me **https://flammenfuchs.de/contact**
+- 📫 How to reach me **https://florianwip.de/#contact**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
